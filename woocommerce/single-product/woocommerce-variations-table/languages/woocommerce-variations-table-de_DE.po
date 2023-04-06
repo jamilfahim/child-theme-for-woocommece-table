@@ -1,0 +1,816 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Catalog\n"
+"POT-Creation-Date: 2020-05-27 07:49+0000\n"
+"PO-Revision-Date: 2021-09-29 21:41+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: admin/redux-extensions\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
+
+#: woocommerce-variations-table.php:88
+msgid ""
+"WooCommerce Variations Table requires the WooCommerce & Redux Framework "
+"plugin. Please install or activate them before!"
+msgstr ""
+"WooCommerce Variations Table erfordert das WooCommerce & Redux Framework-"
+"Plugin. Bitte installieren oder aktivieren Sie diese vorher!"
+
+#: admin/options-init.php:102
+msgid "Information"
+msgstr "Informationen"
+
+#: admin/options-init.php:103
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+"<p>Brauchen Sie Hilfe? Dann schildern Sie uns bitte Ihr Problem auf "
+"Codecanyon.</p>"
+
+#: admin/options-init.php:125
+msgid "Variations Table"
+msgstr "Variationstabelle"
+
+#: admin/options-init.php:127
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Brauchen Sie Hilfe? Dann schildern Sie uns bitte Ihr Problem auf Codecanyon."
+
+#: admin/options-init.php:132
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/options-init.php:140
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/options-init.php:141
+msgid "Enable variations table to use the options below"
+msgstr ""
+"Aktiviere die Variationstabelle um die Optionen unten benutzen zu können"
+
+#: admin/options-init.php:146
+msgid "Remove default variations"
+msgstr "Standard Variationsdarstellung Entfernen"
+
+#: admin/options-init.php:147
+msgid "Removes the default variation select fields and add to cart."
+msgstr ""
+"Entfernt die üblichen Selektionsfelder für Variationen und den 'In den "
+"Warenkorb' Button"
+
+#: admin/options-init.php:155
+msgid "Variation Table"
+msgstr "Variationstabelle"
+
+#: admin/options-init.php:156
+msgid "Configure the variations table."
+msgstr "Variationstabelle Einstellung"
+
+#: admin/options-init.php:163
+msgid "Table Title"
+msgstr "Titel der Tabelle"
+
+#: admin/options-init.php:164
+msgid "Title before the Varaitons Table."
+msgstr "Titel vor der Variationstabelle."
+
+#: admin/options-init.php:170
+msgid "Table Position"
+msgstr "Position der Tabelle"
+
+#: admin/options-init.php:171
+msgid "Specify the positon of the Variations Table."
+msgstr "Position der Variationstabelle spezifizieren."
+
+#: admin/options-init.php:174
+msgid "Before Single Product"
+msgstr "Bevor Einzelprodukt"
+
+#: admin/options-init.php:175
+msgid "Before Single Product Summary"
+msgstr "Bevor der kurzen Beschreibung des Einzelproduktes"
+
+#: admin/options-init.php:176
+msgid "Before Add to Cart Form"
+msgstr "Bevor \"In den Warenkorb\"-Form"
+
+#: admin/options-init.php:177
+msgid "After Add to Cart Form"
+msgstr "Nach \"In den Warenkorb\"-Form"
+
+#: admin/options-init.php:178
+msgid "In Single Product Summary"
+msgstr "In der Zusammenfassung des Einzelproduktes"
+
+#: admin/options-init.php:179
+msgid "Before Meta Information"
+msgstr "Bevor Meta Information"
+
+#: admin/options-init.php:180
+msgid "After Meta Information"
+msgstr "Nach Meta Information"
+
+#: admin/options-init.php:181
+msgid "After Single Product Summary"
+msgstr "Nach Zusammenfassung des Einzelproduktes"
+
+#: admin/options-init.php:182
+msgid "After Single Product"
+msgstr "Nach dem Einzelprodukt"
+
+#: admin/options-init.php:183
+msgid "After Main Product"
+msgstr "Nach dem Hauptprodukt"
+
+#: admin/options-init.php:189
+msgid "Hook Priority"
+msgstr "Hackenpriorität"
+
+#: admin/options-init.php:202
+msgid "Image"
+msgstr "Bild"
+
+#: admin/options-init.php:203
+msgid "SKU"
+msgstr "Artikelnummer"
+
+#: admin/options-init.php:204
+msgid "Price"
+msgstr "Preis"
+
+#: admin/options-init.php:205
+msgid "Stock"
+msgstr "Lagerbestand"
+
+#: admin/options-init.php:206
+msgid "Attributes"
+msgstr "Eigenschaften"
+
+#: admin/options-init.php:207
+#: public/class-woocommerce-variations-table-public.php:458
+msgid "Quantity"
+msgstr "Menge"
+
+#: admin/options-init.php:208
+msgid "Add to Cart"
+msgstr "In den Warenkorb"
+
+#: admin/options-init.php:211
+msgid "Name"
+msgstr "Name"
+
+#: admin/options-init.php:212
+msgid "Multiple CB Add Cart"
+msgstr "Mehrere CB In den Warenkorb"
+
+#: admin/options-init.php:213
+msgid "Multiple QT Add Cart"
+msgstr "Mehrere QT In den Warenkorb"
+
+#: admin/options-init.php:214
+msgid "Description"
+msgstr "Beschreibung"
+
+#: admin/options-init.php:215
+msgid "Dimensions"
+msgstr "Dimensionen"
+
+#: admin/options-init.php:216
+msgid "Weight"
+msgstr "Gewicht"
+
+#: admin/options-init.php:217
+msgid "Enquiry"
+msgstr "Anfrage"
+
+#: admin/options-init.php:224
+msgid "Enable Lightbox"
+msgstr "Lightbox aktivieren"
+
+#: admin/options-init.php:230
+msgid "Enable Datatables"
+msgstr "Datentabellen aktivieren"
+
+#: admin/options-init.php:236
+msgid "Datatables Language"
+msgstr "Sprache der Datentabellen"
+
+#: admin/options-init.php:237
+msgid "Set a language for the datatable."
+msgstr "Sprache für die Datentabellen auswählen"
+
+#: admin/options-init.php:240
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: admin/options-init.php:241
+msgid "Albanian"
+msgstr "albanisch"
+
+#: admin/options-init.php:242
+msgid "Amharic"
+msgstr "Amharisch"
+
+#: admin/options-init.php:243
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: admin/options-init.php:244
+msgid "Armenian"
+msgstr "Armenisch"
+
+#: admin/options-init.php:245
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: admin/options-init.php:246
+msgid "Bangla"
+msgstr "Bangla"
+
+#: admin/options-init.php:247
+msgid "Basque"
+msgstr "baskisch"
+
+#: admin/options-init.php:248
+msgid "Belarusian"
+msgstr "Belarussisch"
+
+#: admin/options-init.php:249
+msgid "Bulgarian"
+msgstr "bulgarisch"
+
+#: admin/options-init.php:250
+msgid "Catalan"
+msgstr "katalanisch"
+
+#: admin/options-init.php:251
+msgid "traditional"
+msgstr "traditionell"
+
+#: admin/options-init.php:252
+msgid "Chinese"
+msgstr "Chinesisch"
+
+#: admin/options-init.php:253
+msgid "Croatian"
+msgstr "kroatisch"
+
+#: admin/options-init.php:254
+msgid "Czech"
+msgstr "Tschechisch"
+
+#: admin/options-init.php:255
+msgid "Danish"
+msgstr "dänisch"
+
+#: admin/options-init.php:256
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: admin/options-init.php:257
+msgid "English"
+msgstr "Englisch"
+
+#: admin/options-init.php:258
+msgid "Estonian"
+msgstr "estnisch"
+
+#: admin/options-init.php:259
+msgid "Filipino"
+msgstr "Philippinisch"
+
+#: admin/options-init.php:260
+msgid "Finnish"
+msgstr "finnisch"
+
+#: admin/options-init.php:261
+msgid "French"
+msgstr "Französisch"
+
+#: admin/options-init.php:262
+msgid "Galician"
+msgstr "galizisch"
+
+#: admin/options-init.php:263
+msgid "Georgian"
+msgstr "georgisch"
+
+#: admin/options-init.php:264
+msgid "German"
+msgstr "Deutsch"
+
+#: admin/options-init.php:265
+msgid "Greek"
+msgstr "griechisch"
+
+#: admin/options-init.php:266
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: admin/options-init.php:267
+msgid "Hebrew"
+msgstr "hebräisch"
+
+#: admin/options-init.php:268
+msgid "Hindi"
+msgstr "Hindi"
+
+#: admin/options-init.php:269
+msgid "Hungarian"
+msgstr "ungarisch"
+
+#: admin/options-init.php:270
+msgid "Icelandic"
+msgstr "isländisch"
+
+#: admin/options-init.php:271
+msgid "Alternative"
+msgstr "Alternative"
+
+#: admin/options-init.php:272
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: admin/options-init.php:273
+msgid "Irish"
+msgstr "irisch"
+
+#: admin/options-init.php:274
+msgid "Italian"
+msgstr "Italienisch"
+
+#: admin/options-init.php:275
+msgid "Japanese"
+msgstr "japanisch"
+
+#: admin/options-init.php:276
+msgid "Kazakh"
+msgstr "Kasachisch"
+
+#: admin/options-init.php:277
+msgid "Korean"
+msgstr "Koreanisch"
+
+#: admin/options-init.php:278
+msgid "Kyrgyz"
+msgstr "Kirgisisch"
+
+#: admin/options-init.php:279
+msgid "Latvian"
+msgstr "lettisch"
+
+#: admin/options-init.php:280
+msgid "Lithuanian"
+msgstr "litauisch"
+
+#: admin/options-init.php:281
+msgid "Macedonian"
+msgstr "mazedonisch"
+
+#: admin/options-init.php:282
+msgid "Malay"
+msgstr "malaiisch"
+
+#: admin/options-init.php:283
+msgid "Mongolian"
+msgstr "mongolisch"
+
+#: admin/options-init.php:284
+msgid "Nepali"
+msgstr "Nepalesisch"
+
+#: admin/options-init.php:285
+msgid "Bokmal"
+msgstr "Bokmal"
+
+#: admin/options-init.php:286
+msgid "Nynorsk"
+msgstr "Nynorsk"
+
+#: admin/options-init.php:287
+msgid "Pashto"
+msgstr "Paschtu"
+
+#: admin/options-init.php:288
+msgid "Persian"
+msgstr "persisch"
+
+#: admin/options-init.php:289
+msgid "Polish"
+msgstr "Polieren"
+
+#: admin/options-init.php:290
+msgid "Brasil"
+msgstr "Brasilien"
+
+#: admin/options-init.php:291
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+#: admin/options-init.php:292
+msgid "Romanian"
+msgstr "rumänisch"
+
+#: admin/options-init.php:293
+msgid "Russian"
+msgstr "Russisch"
+
+#: admin/options-init.php:294
+msgid "Serbian"
+msgstr "serbisch"
+
+#: admin/options-init.php:295
+msgid "Sinhala"
+msgstr "singhalesisch"
+
+#: admin/options-init.php:296
+msgid "Slovak"
+msgstr "slowakisch"
+
+#: admin/options-init.php:297
+msgid "Slovenian"
+msgstr "Slowenisch"
+
+#: admin/options-init.php:298
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: admin/options-init.php:299
+msgid "Swahili"
+msgstr "Swahili"
+
+#: admin/options-init.php:300
+msgid "Swedish"
+msgstr "Schwedisch"
+
+#: admin/options-init.php:301
+msgid "Tamil"
+msgstr "Tamil"
+
+#: admin/options-init.php:302
+msgid "telugu"
+msgstr "Telugu"
+
+#: admin/options-init.php:303
+msgid "Thai"
+msgstr "Thai"
+
+#: admin/options-init.php:304
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: admin/options-init.php:305
+msgid "Ukrainian"
+msgstr "ukrainisch"
+
+#: admin/options-init.php:306
+msgid "Urdu"
+msgstr "Urdu"
+
+#: admin/options-init.php:307
+msgid "Uzbek"
+msgstr "Usbekisch"
+
+#: admin/options-init.php:308
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+#: admin/options-init.php:309
+msgid "Welsh"
+msgstr "Walisisch"
+
+#: admin/options-init.php:315
+msgid "Enable Paging"
+msgstr "Seitennummerierung aktivieren"
+
+#: admin/options-init.php:322
+msgid "Default Paging length"
+msgstr "Standard-Paging-Länge"
+
+#: admin/options-init.php:323
+msgid "Make sure you add this default value to the length menu option below."
+msgstr ""
+"Stellen Sie sicher, dass Sie diesen Standardwert der Länge-Menüoption unten "
+"hinzufügen."
+
+#: admin/options-init.php:333
+msgid "Page length menu options"
+msgstr "Menüoptionen für Seitenlänge"
+
+#: admin/options-init.php:334
+msgid "No spaced between comma and value allowed here."
+msgstr "Hier ist kein Leerzeichen zwischen Komma und Wert zulässig."
+
+#: admin/options-init.php:341
+msgid "Enable Ordering"
+msgstr "Anordnung aktivieren"
+
+#: admin/options-init.php:348
+msgid "Default Order Column (starts with 0, not 1)"
+msgstr "Standard Spaltennanordnung (fängt mit 0, nicht mit 1 an)"
+
+#: admin/options-init.php:355
+msgid "Default Order Column Type (asc or desc)"
+msgstr "Standard Spaltenanordnung-Typ (aufsteigend und absteigend)"
+
+#: admin/options-init.php:362
+msgid "Show Info"
+msgstr "Info anzeigen"
+
+#: admin/options-init.php:369
+msgid "Enable Filtering"
+msgstr "Filtern aktivieren"
+
+#: admin/options-init.php:376
+msgid "DEPRECATED: Enable Filtering by Column Filter Widgets"
+msgstr "VERALTET: Filterung nach Spaltenfilter-Widgets aktivieren"
+
+#: admin/options-init.php:383
+msgid "Enable Filter & Search Cache (not recommended)"
+msgstr "Filtern und Such-Cache aktivieren (nicht empfohlen)"
+
+#: admin/options-init.php:390
+msgid "Enable Searching"
+msgstr "Suche aktivieren"
+
+#: admin/options-init.php:397
+msgid "Enable Fixed Header"
+msgstr "Feste Kopfzeile aktivieren"
+
+#: admin/options-init.php:404
+msgid "Fixed Header Offset"
+msgstr "Feste Kopfzeile Ausgleich"
+
+#: admin/options-init.php:405
+msgid ""
+"Leave empty if you have no sticky header e.g. Otherwise specify the height "
+"in numbers (without px)."
+msgstr ""
+"Lassen Sie das Feld leer, wenn Sie keinen klebrigen (festen) Header haben, "
+"Andernfalls geben Sie die Höhe an in Zahlen (ohne px"
+
+#: admin/options-init.php:415
+msgid "Enable Fixed Footer"
+msgstr "Feste Fußzeile aktivieren"
+
+#: admin/options-init.php:422
+msgid "Fixed Footer Offset"
+msgstr "Feste Fußzeile Ausgleich"
+
+#: admin/options-init.php:423
+msgid ""
+"Leave empty if you have no sticky footer e.g. Otherwise specify the height "
+"in numbers (without px)."
+msgstr ""
+"Lassen Sie das Feld leer, wenn Sie keine klebrige (feste) Fußzeile haben, "
+"Andernfalls geben Sie die Höhe an in Zahlen (ohne px)"
+
+#: admin/options-init.php:433
+msgid "Enable Column Search"
+msgstr "Spaltensuche aktivieren"
+
+#: admin/options-init.php:440
+msgid "Enable Scrolling"
+msgstr "Scrollen aktivieren"
+
+#: admin/options-init.php:447
+msgid "Scroll Max Height"
+msgstr "Scrollen max. Höhe"
+
+#: admin/options-init.php:457
+msgid "Enable Responsive"
+msgstr "Responsive aktivieren"
+
+#: admin/options-init.php:464
+msgid "Show Print Export-Button"
+msgstr "Print Export-Button anzeigen"
+
+#: admin/options-init.php:471
+msgid "Show Copy Export-Button"
+msgstr "Kopieren Export-Button anzeigen"
+
+#: admin/options-init.php:478
+msgid "Show Excel Export-Button"
+msgstr "Excel Export-Button anzeigen"
+
+#: admin/options-init.php:485
+msgid "Show CSV Export-Button"
+msgstr "CSV Export-Button anzeigen"
+
+#: admin/options-init.php:492
+msgid "Show PDF Export-Button"
+msgstr "PDF Export Button anzeigen"
+
+#: admin/options-init.php:499
+msgid "sDOM (leave as it is) Default is: W<\"clear\">Blfrtip"
+msgstr "sDOM (belassen wie es ist) Standard ist: W<\"clear\">Blfrtip"
+
+#: admin/options-init.php:507
+msgid "Exclusions"
+msgstr "Ausschlüsse"
+
+#: admin/options-init.php:508
+msgid ""
+"With the below settings you can exclude products / categories so that the "
+"price and add to cart will be shown."
+msgstr ""
+"Mit den folgenden Einstellungen können Sie Produkte / Kategorien "
+"ausschließen, damit der Preis angezeigt und in den Warenkorb gelegt wird."
+
+#: admin/options-init.php:518
+msgid "Exclude Product Categories"
+msgstr "Produktkategorien ausschließen"
+
+#: admin/options-init.php:519
+msgid "Which product categories should be excluded by the variations table."
+msgstr ""
+"Welche Produktkategorien von der Variationstabelle ausgeschlossen werden "
+"sollen."
+
+#: admin/options-init.php:524
+msgid "Revert Categories Exclusion"
+msgstr "Kategorienausschluss rückgängig machen"
+
+#: admin/options-init.php:525 admin/options-init.php:539
+msgid "Instead of exclusion it will include."
+msgstr "Anstelle von Ausgrenzung wird es einschließen."
+
+#: admin/options-init.php:532
+msgid "Exclude Products"
+msgstr "Produkte ausschließen"
+
+#: admin/options-init.php:533
+msgid "Which products should be excluded by the variations table."
+msgstr ""
+"Welche Produkte sollen von der Variationstabelle ausgeschlossen werden?"
+
+#: admin/options-init.php:538
+msgid "Revert Products Exclusion"
+msgstr "Produktausschluss rückgängig machen"
+
+#: admin/options-init.php:545
+msgid "Limitations"
+msgstr "Einschränkungen"
+
+#: admin/options-init.php:546
+msgid "Apply Variations Table for specific users / roles."
+msgstr "Variationstabelle nur für bestimmte Benutzer / Rolen anwenden"
+
+#: admin/options-init.php:553
+msgid "Apply for users"
+msgstr "Anwenden auf Nutzer"
+
+#: admin/options-init.php:554
+msgid "Which user group should be affected by the variations table."
+msgstr "Welche Nutzer sollen betroffen sein?"
+
+#: admin/options-init.php:556
+msgid "All"
+msgstr "Alle"
+
+#: admin/options-init.php:557
+msgid "Only NOT logged in"
+msgstr "Nur „NICHT“ eingeloggte User"
+
+#: admin/options-init.php:558
+msgid "Only Logged in"
+msgstr "Nur eingeloggte User"
+
+#: admin/options-init.php:566
+msgid "Exclude User Roles"
+msgstr "Benutzerrollen Ausschließen"
+
+#: admin/options-init.php:567
+msgid "Select user roles, where the plugin should NOT apply."
+msgstr "Benutzerrollen auswählen, bei dem der Plugin nicht aktiviert wird"
+
+#: admin/options-init.php:575
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+#: admin/options-init.php:576
+msgid "Custom stylesheet / javascript."
+msgstr "Eigenes Stylesheet / Javascript."
+
+#: admin/options-init.php:584
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: admin/options-init.php:585
+msgid "Add some stylesheet if you want."
+msgstr "Gib dem Plugin dein eigenes Styling."
+
+#: admin/options-init.php:591
+msgid "Custom JS"
+msgstr "Eigenes JS"
+
+#: admin/options-init.php:592
+msgid "Add some javascript if you want."
+msgstr "Gib dem Plugin eigene Funktionen."
+
+#: admin/options-init.php:598
+msgid "Debug"
+msgstr "Debuggen"
+
+#: admin/options-init.php:599
+msgid "Debug for special themes."
+msgstr "Debuggen für speziellen Themen"
+
+#: admin/options-init.php:606
+msgid "Old Theme support"
+msgstr "Alte Theme-Unterstützung"
+
+#: admin/options-init.php:607
+msgid "Enable this when attributes do not show in cart."
+msgstr ""
+"Aktivieren Sie dies, wenn Attribute nicht im Warenkorb angezeigt werden."
+
+#: admin/options-init.php:613
+msgid "Hard Remove Default Variations"
+msgstr "Hartes Entfernen der Standardvariationen"
+
+#: admin/options-init.php:614
+msgid "This will add CSS to hide the default variation select fields."
+msgstr ""
+"Dadurch wird CSS hinzugefügt, um die standardmäßigen Variationsauswahlfelder "
+"auszublenden."
+
+#: public/class-woocommerce-variations-table-public.php:159
+msgid "Show All"
+msgstr "Alle Anzeigen"
+
+#: public/class-woocommerce-variations-table-public.php:160
+msgid "Search"
+msgstr "Suchen"
+
+#: public/class-woocommerce-variations-table-public.php:161
+msgid "Added to Cart"
+msgstr "Zum Warenkorg hinzugefügt"
+
+#: public/class-woocommerce-variations-table-public.php:162
+msgid "Added All to Cart"
+msgstr "Alle in den Warenkorb hinzugefügt"
+
+#: public/class-woocommerce-variations-table-public.php:163
+#: public/class-woocommerce-variations-table-public.php:485
+msgid "Add all To Cart"
+msgstr "Alle in den Warenkorb hinzufügen"
+
+#: public/class-woocommerce-variations-table-public.php:536
+msgid "Print"
+msgstr "Drucken"
+
+#: public/class-woocommerce-variations-table-public.php:545
+msgid "Copy"
+msgstr "Kopieren"
+
+#: public/class-woocommerce-variations-table-public.php:554
+msgid "Excel"
+msgstr "Excel"
+
+#: public/class-woocommerce-variations-table-public.php:571
+msgid "PDF"
+msgstr "PDF"
+
+#: public/class-woocommerce-variations-table-public.php:653
+msgid "On Backorder"
+msgstr "Im Rückstand"
+
+#: public/class-woocommerce-variations-table-public.php:658
+msgid "In Stock"
+msgstr "Verfügbar"
+
+#: public/class-woocommerce-variations-table-public.php:660
+msgid "Out of Stock"
+msgstr "Ausverkauft"
+
+#. Name of the plugin
+msgid "WooCommerce Variations Table"
+msgstr "WooCommerce Variationstabelle"
+
+#. Description of the plugin
+msgid "Transform your Variation Products into nice tables."
+msgstr "Transformieren Sie Ihre Produktvariationen in schöne Tabellen"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-variations-table/"
+msgstr "https://welaunch.io/plugins/woocommerce-variations-table/"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"

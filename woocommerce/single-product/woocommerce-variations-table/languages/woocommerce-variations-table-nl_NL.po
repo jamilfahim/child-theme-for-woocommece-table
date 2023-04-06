@@ -1,0 +1,891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Variations Table\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-29 21:38+0000\n"
+"PO-Revision-Date: 2021-09-29 21:42+0000\n"
+"Last-Translator: WeLaunch\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
+
+#: admin/options-init.php:193
+msgid "\">register your License here</a>."
+msgstr "\">registreer hier uw licentie</a>."
+
+#: admin/options-init.php:168
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+"<p>Ondersteuning nodig? Gebruik de commentaarfunctie op codecanyon.</p>"
+
+#: public/class-woocommerce-variations-table-public.php:192
+#: public/class-woocommerce-variations-table-public.php:582
+msgid "Add all To Cart"
+msgstr "Alles toevoegen aan winkelwagen"
+
+#: admin/options-init.php:676
+msgid "Add some javascript if you want."
+msgstr "Voeg eventueel wat javascript toe."
+
+#: admin/options-init.php:669
+msgid "Add some stylesheet if you want."
+msgstr "Voeg eventueel een stylesheet toe."
+
+#: admin/options-init.php:97
+msgid "Add to Cart"
+msgstr "Voeg toe aan winkelkar"
+
+#: public/class-woocommerce-variations-table-public.php:191
+msgid "Added All to Cart"
+msgstr "Alles aan winkelwagen toegevoegd"
+
+#: public/class-woocommerce-variations-table-public.php:190
+msgid "Added to Cart"
+msgstr "Toegevoegd aan winkelwagen"
+
+#: admin/options-init.php:645
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: admin/options-init.php:306
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: admin/options-init.php:244
+msgid "After Add to Cart Form"
+msgstr "Na toevoegen aan winkelwagenformulier"
+
+#: admin/options-init.php:250
+msgid "After Main Product"
+msgstr "Na hoofdproduct:"
+
+#: admin/options-init.php:247
+msgid "After Meta Information"
+msgstr "Na meta-informatie"
+
+#: admin/options-init.php:249
+msgid "After Single Product"
+msgstr "Na één product"
+
+#: admin/options-init.php:248
+msgid "After Single Product Summary"
+msgstr "Na één productoverzicht"
+
+#: admin/options-init.php:307
+msgid "Albanian"
+msgstr "Albanees"
+
+#: admin/options-init.php:626
+msgid "All"
+msgstr "Alle"
+
+#: admin/options-init.php:337
+msgid "Alternative"
+msgstr "Alternatief"
+
+#: admin/options-init.php:308
+msgid "Amharic"
+msgstr "Amhaars"
+
+#: admin/options-init.php:623
+msgid "Apply for users"
+msgstr "Aanmelden voor gebruikers"
+
+#: admin/options-init.php:616
+msgid "Apply Variations Table for specific users / roles."
+msgstr "Variatiestabel toepassen voor specifieke gebruikers / rollen."
+
+#: admin/options-init.php:309
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: admin/options-init.php:310
+msgid "Armenian"
+msgstr "Armeens"
+
+#: admin/options-init.php:95
+msgid "Attributes"
+msgstr "attributen"
+
+#: admin/options-init.php:311
+msgid "Azerbaijan"
+msgstr "Azerbeidzjan"
+
+#: admin/options-init.php:312
+msgid "Bangla"
+msgstr "Bangla"
+
+#: admin/options-init.php:313
+msgid "Basque"
+msgstr "baskisch"
+
+#: admin/options-init.php:243
+msgid "Before Add to Cart Form"
+msgstr "Voor het toevoegen aan winkelwagenformulier"
+
+#: admin/options-init.php:246
+msgid "Before Meta Information"
+msgstr "Voor meta-informatie"
+
+#: admin/options-init.php:241
+msgid "Before Single Product"
+msgstr "Voor enkel product"
+
+#: admin/options-init.php:242
+msgid "Before Single Product Summary"
+msgstr "Vóór één productoverzicht"
+
+#: admin/options-init.php:314
+msgid "Belarusian"
+msgstr "Wit-Russisch"
+
+#: admin/options-init.php:351
+msgid "Bokmal"
+msgstr "Bokmal"
+
+#: admin/options-init.php:356
+msgid "Brasil"
+msgstr "Brazilië"
+
+#: admin/options-init.php:315
+msgid "Bulgarian"
+msgstr "Bulgaars"
+
+#: admin/options-init.php:316
+msgid "Catalan"
+msgstr "Catalaans"
+
+#: admin/options-init.php:318
+msgid "Chinese"
+msgstr "Chinese"
+
+#: admin/options-init.php:223
+msgid "Configure the variations table."
+msgstr "Configureer de variatietabel."
+
+#: public/class-woocommerce-variations-table-public.php:642
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: admin/options-init.php:319
+msgid "Croatian"
+msgstr "Kroatisch"
+
+#: admin/options-init.php:668
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: admin/options-init.php:675
+msgid "Custom JS"
+msgstr "Aangepaste JS"
+
+#: admin/options-init.php:646
+msgid "Custom stylesheet / javascript."
+msgstr "Aangepast stylesheet / javascript."
+
+#: admin/options-init.php:320
+msgid "Czech"
+msgstr "Tsjechisch"
+
+#: admin/options-init.php:321
+msgid "Danish"
+msgstr "Deens"
+
+#: admin/options-init.php:302
+msgid "Datatables Language"
+msgstr "Taal gegevenstabel"
+
+#: admin/options-init.php:682
+msgid "Debug"
+msgstr "Debuggen"
+
+#: admin/options-init.php:683
+msgid "Debug for special themes."
+msgstr "Debuggen voor speciale thema's."
+
+#: admin/options-init.php:414
+msgid "Default Order Column (starts with 0, not 1)"
+msgstr "Standaardvolgordekolom (begint met 0, niet 1)"
+
+#: admin/options-init.php:421
+msgid "Default Order Column Type (asc or desc)"
+msgstr "Standaard orderkolomtype (oplopend of aflopend)"
+
+#: admin/options-init.php:388
+msgid "Default Paging length"
+msgstr "Standaard paging-lengte"
+
+#: admin/options-init.php:442
+msgid "DEPRECATED: Enable Filtering by Column Filter Widgets"
+msgstr "VERLATEN: Filteren op kolomfilterwidgets inschakelen"
+
+#: admin/options-init.php:103
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/options-init.php:104
+msgid "Dimensions"
+msgstr "Dimensies"
+
+#: admin/options-init.php:322
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: admin/options-init.php:200
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: admin/options-init.php:499
+msgid "Enable Column Search"
+msgstr "Kolom zoeken inschakelen"
+
+#: admin/options-init.php:296
+msgid "Enable Datatables"
+msgstr "Gegevenstabellen inschakelen"
+
+#: admin/options-init.php:449
+msgid "Enable Filter & Search Cache (not recommended)"
+msgstr "Schakel filter- en zoekcache in (niet aanbevolen)"
+
+#: admin/options-init.php:435
+msgid "Enable Filtering"
+msgstr "Filteren inschakelen"
+
+#: admin/options-init.php:481
+msgid "Enable Fixed Footer"
+msgstr "Vaste voettekst inschakelen"
+
+#: admin/options-init.php:463
+msgid "Enable Fixed Header"
+msgstr "Vaste koptekst inschakelen"
+
+#: admin/options-init.php:290
+msgid "Enable Lightbox"
+msgstr "Lightbox inschakelen"
+
+#: admin/options-init.php:272
+msgid "Enable Meta Data Support "
+msgstr "Metadata-ondersteuning inschakelen"
+
+#: admin/options-init.php:407
+msgid "Enable Ordering"
+msgstr "Bestellen inschakelen"
+
+#: admin/options-init.php:381
+msgid "Enable Paging"
+msgstr "Paging inschakelen"
+
+#: admin/options-init.php:523
+msgid "Enable Responsive"
+msgstr "Responsief inschakelen"
+
+#: admin/options-init.php:506
+msgid "Enable Scrolling"
+msgstr "Scrollen inschakelen"
+
+#: admin/options-init.php:456
+msgid "Enable Searching"
+msgstr "Zoeken inschakelen"
+
+#: admin/options-init.php:691
+msgid "Enable this when attributes do not show in cart."
+msgstr ""
+"Schakel dit in als attributen niet in de winkelwagen worden weergegeven."
+
+#: admin/options-init.php:201
+msgid "Enable variations table to use the options below"
+msgstr "Variatiestabel inschakelen om de onderstaande opties te gebruiken"
+
+#: admin/options-init.php:323
+msgid "English"
+msgstr "Engels"
+
+#: admin/options-init.php:107
+msgid "Enquiry **"
+msgstr "Navraag **"
+
+#: admin/options-init.php:324
+msgid "Estonian"
+msgstr "Ests"
+
+#: public/class-woocommerce-variations-table-public.php:651
+msgid "Excel"
+msgstr "Excel"
+
+#: admin/options-init.php:585
+msgid "Exclude Product Categories"
+msgstr "Productcategorieën uitsluiten"
+
+#: admin/options-init.php:602
+msgid "Exclude Products"
+msgstr "Producten uitsluiten"
+
+#: admin/options-init.php:636
+msgid "Exclude User Roles"
+msgstr "Gebruikersrollen uitsluiten"
+
+#: admin/options-init.php:573
+msgid "Exclusions"
+msgstr "Uitsluitingen"
+
+#: admin/options-init.php:106
+msgid "Export PDF *"
+msgstr "PDF exporteren *"
+
+#: admin/options-init.php:325
+msgid "Filipino"
+msgstr "Filipijns"
+
+#: admin/options-init.php:326
+msgid "Finnish"
+msgstr "Fins"
+
+#: admin/options-init.php:488
+msgid "Fixed Footer Offset"
+msgstr "Offset vaste voettekst"
+
+#: admin/options-init.php:470
+msgid "Fixed Header Offset"
+msgstr "Vaste koptekstverschuiving"
+
+#: admin/options-init.php:327
+msgid "French"
+msgstr "Frans"
+
+#: admin/options-init.php:328
+msgid "Galician"
+msgstr "Galicisch"
+
+#: admin/options-init.php:192
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/options-init.php:329
+msgid "Georgian"
+msgstr "Georgisch"
+
+#: admin/options-init.php:330
+msgid "German"
+msgstr "Duitse"
+
+#: admin/options-init.php:331
+msgid "Greek"
+msgstr "Grieks"
+
+#: admin/options-init.php:332
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: admin/options-init.php:697
+msgid "Hard Remove Default Variations"
+msgstr "Standaardvariaties moeilijk verwijderen"
+
+#: admin/options-init.php:333
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+#: admin/options-init.php:334
+msgid "Hindi"
+msgstr "Hindi"
+
+#: admin/options-init.php:256
+msgid "Hook Priority"
+msgstr "Haakprioriteit"
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr "https://welaunch.io"
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-variations-table/"
+msgstr "https://welaunch.io/plugins/woocommerce-variations-table/"
+
+#: admin/options-init.php:335
+msgid "Hungarian"
+msgstr "Hongaars"
+
+#: admin/options-init.php:336
+msgid "Icelandic"
+msgstr "IJslands"
+
+#: admin/options-init.php:91
+msgid "Image"
+msgstr "Afbeelding"
+
+#: admin/options-init.php:245
+msgid "In Single Product Summary"
+msgstr "In één productoverzicht"
+
+#: public/class-woocommerce-variations-table-public.php:770
+msgid "In Stock"
+msgstr "Op voorraad"
+
+#: admin/options-init.php:338
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: admin/options-init.php:167
+msgid "Information"
+msgstr "Informatie"
+
+#: admin/options-init.php:592 admin/options-init.php:609
+msgid "Instead of exclusion it will include."
+msgstr "In plaats van uitsluiting zal het omvatten."
+
+#: admin/options-init.php:654
+msgid ""
+"Instead of using our own <a href=\"https://www.welaunch."
+"io/en/product/woocommerce-wishlist/\" target=\"_blank\">WooCommerce Wishlist "
+"plugin</a>, use Yith plugin."
+msgstr ""
+"Gebruik in plaats van onze eigen <a href=\"https://www.welaunch."
+"io/en/product/woocommerce-wishlist/\" target=\"_blank\">WooCommerce-"
+"verlanglijst-plug-</a> in de Yith-plug-in."
+
+#: admin/options-init.php:339
+msgid "Irish"
+msgstr "Iers"
+
+#: admin/options-init.php:340
+msgid "Italian"
+msgstr "Italiaans"
+
+#: admin/options-init.php:341
+msgid "Japanese"
+msgstr "Japans"
+
+#: admin/options-init.php:342
+msgid "Kazakh"
+msgstr "Kazachs"
+
+#: admin/options-init.php:343
+msgid "Korean"
+msgstr "Koreaans"
+
+#: admin/options-init.php:344
+msgid "Kyrgyz"
+msgstr "Kirgizië"
+
+#: admin/options-init.php:345
+msgid "Latvian"
+msgstr "Lets"
+
+#: admin/options-init.php:489
+msgid ""
+"Leave empty if you have no sticky footer e.g. Otherwise specify the height "
+"in numbers (without px)."
+msgstr ""
+"Laat leeg als je geen plakkerige voettekst hebt, b.v. Geef anders de hoogte "
+"op in cijfers (zonder px)."
+
+#: admin/options-init.php:471
+msgid ""
+"Leave empty if you have no sticky header e.g. Otherwise specify the height "
+"in numbers (without px)."
+msgstr ""
+"Laat leeg als je geen plakkerige kop hebt, b.v. Geef anders de hoogte op in "
+"cijfers (zonder px)."
+
+#: admin/options-init.php:615
+msgid "Limitations"
+msgstr "Beperkingen"
+
+#: admin/options-init.php:346
+msgid "Lithuanian"
+msgstr "Litouws"
+
+#: admin/options-init.php:347
+msgid "Macedonian"
+msgstr "Macedonisch"
+
+#: admin/options-init.php:389
+msgid "Make sure you add this default value to the length menu option below."
+msgstr ""
+"Zorg ervoor dat u deze standaardwaarde toevoegt aan de onderstaande "
+"lengtemenu-optie."
+
+#: admin/options-init.php:348
+msgid "Malay"
+msgstr "Maleis-"
+
+#: admin/options-init.php:279
+msgid "Meta Data Key Texts "
+msgstr "Metadatasleutelteksten"
+
+#: admin/options-init.php:349
+msgid "Mongolian"
+msgstr "Mongools"
+
+#: admin/options-init.php:101
+msgid "Multiple CB Add Cart"
+msgstr "Meerdere CB's toevoegen aan winkelwagen"
+
+#: admin/options-init.php:102
+msgid "Multiple QT Add Cart"
+msgstr "Meerdere QT Winkelwagen toevoegen"
+
+#: admin/options-init.php:100
+msgid "Name"
+msgstr "Naam"
+
+#: admin/options-init.php:187
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Ondersteuning nodig? Gebruik de commentaarfunctie op codecanyon."
+
+#: admin/options-init.php:350
+msgid "Nepali"
+msgstr "Nepalees"
+
+#: admin/options-init.php:400
+msgid "No spaced between comma and value allowed here."
+msgstr "Geen spatie tussen komma en waarde toegestaan hier."
+
+#: admin/options-init.php:352
+msgid "Nynorsk"
+msgstr "Nynorsk"
+
+#: admin/options-init.php:690
+msgid "Old Theme support"
+msgstr "Ondersteuning voor oude thema's"
+
+#: public/class-woocommerce-variations-table-public.php:765
+msgid "On Backorder"
+msgstr "Op nabestelling"
+
+#: admin/options-init.php:628
+msgid "Only Logged in"
+msgstr "Alleen ingelogd"
+
+#: admin/options-init.php:627
+msgid "Only NOT logged in"
+msgstr "Alleen NIET ingelogd"
+
+#: public/class-woocommerce-variations-table-public.php:772
+#: public/class-woocommerce-variations-table-public.php:811
+#: public/class-woocommerce-variations-table-public.php:837
+#: public/class-woocommerce-variations-table-public.php:894
+#: public/class-woocommerce-variations-table-public.php:1009
+msgid "Out of Stock"
+msgstr "Uitverkocht"
+
+#: admin/options-init.php:399
+msgid "Page length menu options"
+msgstr "Menu-opties voor paginalengte"
+
+#: admin/options-init.php:353
+msgid "Pashto"
+msgstr "Pasjtoe"
+
+#: public/class-woocommerce-variations-table-public.php:668
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/options-init.php:354
+msgid "Persian"
+msgstr "Perzisch"
+
+#: admin/options-init.php:355
+msgid "Polish"
+msgstr "Pools"
+
+#: admin/options-init.php:357
+msgid "Portuguese"
+msgstr "Portugees"
+
+#: admin/options-init.php:93
+msgid "Price"
+msgstr "Prijs"
+
+#: public/class-woocommerce-variations-table-public.php:633
+msgid "Print"
+msgstr "Afdrukken"
+
+#: admin/options-init.php:96
+#: public/class-woocommerce-variations-table-public.php:535
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: admin/options-init.php:206
+msgid "Remove default variations"
+msgstr "Standaardvarianten verwijderen"
+
+#: admin/options-init.php:207
+msgid "Removes the default variation select fields and add to cart."
+msgstr ""
+"Verwijdert de standaard variatieselectievelden en voegt toe aan winkelwagen."
+
+#: admin/options-init.php:591
+msgid "Revert Categories Exclusion"
+msgstr "Uitsluiting categorieën terugzetten"
+
+#: admin/options-init.php:608
+msgid "Revert Products Exclusion"
+msgstr "Uitsluiting van producten terugzetten"
+
+#: admin/options-init.php:358
+msgid "Romanian"
+msgstr "Roemeense"
+
+#: admin/options-init.php:359
+msgid "Russian"
+msgstr "Russisch"
+
+#: admin/options-init.php:513
+msgid "Scroll Max Height"
+msgstr "Maximale hoogte scrollen"
+
+#: admin/options-init.php:565
+msgid "sDOM (leave as it is) Default is: W<\"clear\">Blfrtip"
+msgstr "sDOM (laten zoals het is) Standaard is: W<\"clear\">Blfrtip"
+
+#: public/class-woocommerce-variations-table-public.php:189
+msgid "Search"
+msgstr "Zoeken"
+
+#: admin/options-init.php:637
+msgid "Select user roles, where the plugin should NOT apply."
+msgstr ""
+"Selecteer gebruikersrollen, waar de plug-in NIET van toepassing zou moeten "
+"zijn."
+
+#: admin/options-init.php:360
+msgid "Serbian"
+msgstr "Servisch"
+
+#: admin/options-init.php:303
+msgid "Set a language for the datatable."
+msgstr "Stel een taal in voor de gegevenstabel."
+
+#: admin/options-init.php:280
+msgid ""
+"Set custom meta key names for the table header. First is the key, next the "
+"name and split the values with |. An example: _regular_price|Regular Price"
+msgstr ""
+"Stel aangepaste metasleutelnamen in voor de tabelkop. Eerst is de sleutel, "
+"daarna de naam en splits de waarden met |. Een voorbeeld: "
+"_regular_price|Normale prijs"
+
+#: public/class-woocommerce-variations-table-public.php:188
+msgid "Show All"
+msgstr "Toon alles"
+
+#: admin/options-init.php:537
+msgid "Show Copy Export-Button"
+msgstr "Toon Kopie Export-Knop"
+
+#: admin/options-init.php:551
+msgid "Show CSV Export-Button"
+msgstr "Toon CSV Export-knop"
+
+#: admin/options-init.php:544
+msgid "Show Excel Export-Button"
+msgstr "Toon Excel Export-knop"
+
+#: admin/options-init.php:428
+msgid "Show Info"
+msgstr "Toon informatie"
+
+#: admin/options-init.php:558
+msgid "Show PDF Export-Button"
+msgstr "Toon PDF Export-knop"
+
+#: admin/options-init.php:530
+msgid "Show Print Export-Button"
+msgstr "Toon Print Export-knop"
+
+#: admin/options-init.php:660
+msgid "Show Yith Barcode below image"
+msgstr "Toon Yith-streepjescode onder afbeelding:"
+
+#: admin/options-init.php:213
+msgid "Single Variations Support"
+msgstr "Ondersteuning voor enkele variaties"
+
+#: admin/options-init.php:361
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: admin/options-init.php:92
+msgid "SKU"
+msgstr "Artikelnummer"
+
+#: admin/options-init.php:362
+msgid "Slovak"
+msgstr "Slowaaks"
+
+#: admin/options-init.php:363
+msgid "Slovenian"
+msgstr "Sloveens"
+
+#: admin/options-init.php:364
+msgid "Spanish"
+msgstr "Spaans"
+
+#: admin/options-init.php:238
+msgid "Specify the positon of the Variations Table."
+msgstr "Specificeer de positie van de Variatiestabel."
+
+#: admin/options-init.php:94
+msgid "Stock"
+msgstr "Voorraad"
+
+#: admin/options-init.php:214
+msgid ""
+"Support our <a href=\"https://www.welaunch.io/en/product/woocommerce-single-"
+"variations/\" target=\"_blank\">WooCommerce Single Variations</a> plugin. "
+"Will ensure single variations title display."
+msgstr ""
+"Ondersteun onze <a href=\"https://www.welaunch.io/en/product/woocommerce-"
+"single-variations/\" target=\"_blank\">WooCommerce Single Variations-</a> "
+"plug-in. Zorgt ervoor dat de titelweergave van enkele variaties wordt "
+"weergegeven."
+
+#: admin/options-init.php:365
+msgid "Swahili"
+msgstr "Swahili"
+
+#: admin/options-init.php:366
+msgid "Swedish"
+msgstr "Zweeds"
+
+#: admin/options-init.php:237
+msgid "Table Position"
+msgstr "Tafelpositie"
+
+#: admin/options-init.php:222
+msgid "Table Settings"
+msgstr "Tabelinstellingen"
+
+#: admin/options-init.php:230
+msgid "Table Title"
+msgstr "Tabeltitel"
+
+#: admin/options-init.php:367
+msgid "Tamil"
+msgstr "Tamil"
+
+#: admin/options-init.php:368
+msgid "telugu"
+msgstr "telugu"
+
+#: admin/options-init.php:369
+msgid "Thai"
+msgstr "Thais"
+
+#: admin/options-init.php:698
+msgid "This will add CSS to hide the default variation select fields."
+msgstr ""
+"Hiermee wordt CSS toegevoegd om de standaardvariatieselectievelden te "
+"verbergen."
+
+#: admin/options-init.php:273
+msgid ""
+"This will list all meta keys in the variation data above. After enabling you "
+"have to reload the settings page."
+msgstr ""
+"Hiermee worden alle metasleutels in de bovenstaande variatiegegevens "
+"weergegeven. Na het inschakelen moet u de instellingenpagina opnieuw laden."
+
+#: admin/options-init.php:231
+msgid "Title before the Varaitons Table."
+msgstr "Titel voor de Varaitons-tabel."
+
+#: admin/options-init.php:317
+msgid "traditional"
+msgstr "traditioneel"
+
+#. Description of the plugin
+msgid "Transform your Variation Products into nice tables."
+msgstr "Verander je Variatieproducten in leuke tafels."
+
+#: admin/options-init.php:370
+msgid "Turkish"
+msgstr "Turks"
+
+#: admin/options-init.php:371
+msgid "Ukrainian"
+msgstr "Oekraïens"
+
+#: admin/options-init.php:372
+msgid "Urdu"
+msgstr "Urdu"
+
+#: admin/options-init.php:653
+msgid "Use Yith Wishlist Instead"
+msgstr "Gebruik in plaats daarvan Yith-verlanglijst"
+
+#: admin/options-init.php:373
+msgid "Uzbek"
+msgstr "Oezbeeks"
+
+#: admin/options-init.php:185
+msgid "Variations Table"
+msgstr "Variaties Tabel"
+
+#: admin/options-init.php:374
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: admin/options-init.php:105
+msgid "Weight"
+msgstr "Gewicht"
+
+#. Author of the plugin
+msgid "weLaunch"
+msgstr "weLaunch"
+
+#: admin/options-init.php:375
+msgid "Welsh"
+msgstr "Welsh"
+
+#: admin/options-init.php:586
+msgid "Which product categories should be excluded by the variations table."
+msgstr ""
+"Welke productcategorieën moeten worden uitgesloten door de variatietabel."
+
+#: admin/options-init.php:603
+msgid "Which products should be excluded by the variations table."
+msgstr "Welke producten moeten worden uitgesloten door de variatietabel."
+
+#: admin/options-init.php:624
+msgid "Which user group should be affected by the variations table."
+msgstr "Welke gebruikersgroep moet worden beïnvloed door de variatietabel."
+
+#: admin/options-init.php:108
+msgid "Wishlist ***"
+msgstr "verlanglijst ***"
+
+#: admin/options-init.php:574
+msgid ""
+"With the below settings you can exclude products / categories so that the "
+"price and add to cart will be shown."
+msgstr ""
+"Met onderstaande instellingen kun je producten/categorieën uitsluiten zodat "
+"de prijs en toevoegen aan winkelwagen getoond wordt."
+
+#. Name of the plugin
+msgid "WooCommerce Variations Table"
+msgstr "WooCommerce Variaties Tabel"
+
+#: woocommerce-variations-table.php:88
+msgid ""
+"WooCommerce Variations Table requires the WooCommerce & weLaunch Framework "
+"plugin. Please install or activate them before: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+msgstr ""
+"WooCommerce Variations Table vereist de WooCommerce & weLaunch Framework-"
+"plug-in. Installeer of activeer ze eerst: https://www.welaunch."
+"io/updates/welaunch-framework.zip"
+
+#: admin/options-init.php:661
+msgid ""
+"You need the <a href=\"https://yithemes.com/themes/plugins/yith-woocommerce-"
+"barcodes-and-qr-codes/\" target=\"_blank\">Yith Barcode Plugin</a>"
+msgstr ""
+"Je hebt de <a href=\"https://yithemes.com/themes/plugins/yith-woocommerce-"
+"barcodes-and-qr-codes/\" target=\"_blank\">Yith Barcode Plugin nodig</a>"

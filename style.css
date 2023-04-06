@@ -1,0 +1,133 @@
+/*
+Theme Name: Elessi Theme Child
+Theme URI: https://elessi.nasatheme.com
+Description: This is a child theme for Elessi Theme
+Author: NasaTheme team
+Author URI: https://nasatheme.com
+Template: elessi-theme
+Version: 1.0
+*/
+
+
+/*************** ADD YOUR CUSTOM CSS IN THIS AREA ***************/
+
+
+.single-product-table table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  .single-product-table table caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+  }
+  
+  .single-product-table table tr {
+    /* background-color: #f8f8f8; */
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+  
+  .single-product-table table th,
+  .single-product-table table td {
+    padding: .625em;
+    text-align: center;
+  }
+  
+  .single-product-table table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+
+  .single-product-table form {
+    margin: 0 0 0.96552em;
+    display: flex;
+}
+
+.single-product-table p {
+  font-weight: normal;
+  line-height: 1.6;
+  margin-bottom:0;
+}
+
+.single-product-table span {
+ 
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom:0;
+}
+  
+  @media screen and (max-width: 600px) {
+    .woocommerce-variations-table table {
+      border: 0;
+    }
+  
+    .woocommerce-variations-table table caption {
+      font-size: 1.3em;
+    }
+    
+    .woocommerce-variations-table table thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+    
+    .woocommerce-variations-table table tr {
+      border-bottom: 3px solid #ddd;
+      display: block;
+      margin-bottom: .625em;
+    }
+    
+    .woocommerce-variations-table table td {
+      /* border-bottom: 1px solid #ddd; */
+      display: block;
+      font-size: .8em;
+      text-align: right;
+      padding: 14px
+    }
+    
+    .woocommerce-variations-table table td::before {
+      /*
+      * aria-label has no advantage, it won't be read inside a table
+      content: attr(aria-label);
+      */
+      content: attr(data-th);
+      float: left;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    
+    .woocommerce-variations-table table td:last-child {
+      border-bottom: 0;
+    }
+
+    /* td.variations-table-value-ca.variations-table-value {
+      margin-top: -6px;
+  } */
+
+  /* .woocommerce-variation-add-to-cart.woocommerce-variations-table-add-to-cart.variations_button button {
+    margin-top: -32px;
+    padding: 10px 10px;
+} */
+
+  }
+  
+  
+
+  
+  
+  
+  
+  
+ 
